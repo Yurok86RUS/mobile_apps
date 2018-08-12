@@ -1,8 +1,17 @@
 package ru.geekbrains.lesson_1;
 
+import java.util.Scanner;
+
 public class Four {
     public static void main(String[] args) {
-        boolean res = checkSum(5,1);
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Введите первый аргумент: ");
+        double x = input.nextDouble();
+        System.out.println("Введите второй аргумент: ");
+        double y = input.nextDouble();
+
+        boolean res = checkSum(x,y);
     System.out.println(res);
     }
 
