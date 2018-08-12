@@ -4,22 +4,23 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        byte a = 1;
-        short b = 2;
-        int c = 3;
-        long d = 4L;
-        float e = 5.0f;
-        double f = 6.7;
-        boolean j = false;
-        char h = 'Z';
+            byte z = 1;
+            short z1 = 2;
+            int z2 = 3;
+            long z3 = 4L;
+            float z4 = 5.0f;
+            double z5 = 6.7;
+            boolean z6 = false;
+            char z7 = 'Z';
 
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-        System.out.println(e);
-        System.out.println(f);
-        System.out.println(j);
-        System.out.println(h);
+            System.out.println(z);
+            System.out.println(z1);
+            System.out.println(z2);
+            System.out.println(z3);
+            System.out.println(z4);
+            System.out.println(z5);
+            System.out.println(z6);
+            System.out.println(z7);
+
     }
 }
