@@ -24,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Three.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Three.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Three.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Four.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Four.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -51,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Three.java" />
+        <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Four.java" />
       </list>
     </option>
   </component>
@@ -108,7 +118,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three">
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Four" />
+      <module name="20180812" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.lesson_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Main" />
       <module name="20180812" />
@@ -129,9 +149,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Three" />
+      <item itemvalue="Application.Four" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Main" />
       </list>
@@ -186,6 +208,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -193,10 +222,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Three.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
