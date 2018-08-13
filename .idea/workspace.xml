@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Seven.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Seven.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Seven.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -69,6 +69,15 @@
                 <element signature="e#124#125#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Eight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Eight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -95,10 +104,11 @@
         <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Five.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Six.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Seven.java" />
+        <option value="$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Eight.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -152,7 +162,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Seven">
+  <component name="RunManager" selected="Application.Eight">
+    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Eight" />
+      <module name="20180812" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.lesson_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Five" />
       <module name="20180812" />
@@ -193,30 +213,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Three" />
-      <module name="20180812" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.geekbrains.lesson_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.Three" />
       <item itemvalue="Application.Four" />
       <item itemvalue="Application.Five" />
       <item itemvalue="Application.Six" />
       <item itemvalue="Application.Seven" />
+      <item itemvalue="Application.Eight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Eight" />
         <item itemvalue="Application.Seven" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Three" />
       </list>
     </recent_temporary>
   </component>
@@ -302,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Six.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Seven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -317,6 +320,20 @@
             <element signature="e#124#125#0" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Six.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/lesson_1/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
